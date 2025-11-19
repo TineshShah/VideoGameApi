@@ -1,6 +1,6 @@
 # VideoGameApi
 
-A modern RESTful API built with **.NET 8** and **ASP.NET Core** for managing video game data. This project demonstrates my skills in backend API development, clean architecture, and scalable, production-ready solutions.
+A modern RESTful API built with **.NET 8** and **ASP.NET Core** for managing video game data using **Entity Framework**. This project demonstrates my skills in backend API development, clean architecture, and scalable, production-ready solutions.
 
 ## Description
 
